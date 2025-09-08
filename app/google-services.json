@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957701391313",
+    "project_id": "otplogin-b03ab",
+    "storage_bucket": "otplogin-b03ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957701391313:android:2294cc4880740b3ceb96f0",
+        "android_client_info": {
+          "package_name": "com.imthiyas.otplogindemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4ZhuRPFmJ7OaZrLBm9tt0a38PTLJcbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
